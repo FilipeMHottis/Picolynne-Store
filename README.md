@@ -15,6 +15,7 @@
   * [sale_item](#sale_item)
 * [Relacionamentos](#relacionamentos)
 * [Diagrama do Banco de Dados](#diagrama-do-banco-de-dados)
+* [Liceça](#liceca)
 
 ---
 
@@ -203,3 +204,11 @@ Aqui fica armazenado o **preço aplicado no momento da venda**, garantindo hist�
 
 ![Diagrama do banco de dados](./public/picolynne_store_diagram.png)
 
+---
+
+<a id="liceca"></a>
+
+## 📄 Licença
+
+Este projeto está licenciado sob a **Apache License 2.0**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
