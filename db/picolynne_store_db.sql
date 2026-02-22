@@ -15,7 +15,7 @@ CREATE TABLE client (
 );
 
 -- =========================
--- CASHIER (CAIXA)
+-- CASHIER/USER (CAIXA/USUÁRIO)
 -- =========================
 CREATE TABLE cashier (
     id SERIAL PRIMARY KEY,

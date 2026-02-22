@@ -88,7 +88,7 @@ Armazena os clientes cadastrados. Caso o cliente não esteja cadastrado, o siste
 
 <a id="cashier"></a>
 
-### 🧑‍💼 cashier
+### 🧑‍💼 cashier/user
 
 Representa o caixa responsável pela venda (usuário do sistema).
 
