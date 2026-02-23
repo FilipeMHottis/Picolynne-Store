@@ -98,6 +98,7 @@ Representa o caixa responsável pela venda (usuário do sistema).
 | name     | VARCHAR(100) | NOT NULL     | Nome ou identificação do caixa |
 | email    | VARCHAR(255) | UNIQUE       | Email de acesso                |
 | password | VARCHAR(255) | NOT NULL     | Senha criptografada            |
+| role     | VARCHAR(20)  | NOT NULL     | Role do Usário (padrão cacher) |
 | status   | BOOLEAN      | DEFAULT true | Caixa ativo                    |
 
 ---

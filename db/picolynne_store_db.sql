@@ -22,6 +22,7 @@ CREATE TABLE cashier (
     name VARCHAR(100) NOT NULL,
     email VARCHAR(255) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL,
+    role VARCHAR(20) NOT NULL DEFAULT 'cashier', -- 'cashier' ou 'admin'
     status BOOLEAN NOT NULL DEFAULT TRUE
 );
 
