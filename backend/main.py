@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.openapi.utils import get_openapi
-from api import auth
+from controllers import auth
 
 app = FastAPI(title="Picolynne Store API")
 
